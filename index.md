@@ -1,3 +1,3 @@
-# Welcome to my blog
+# **_ Goose University _**
 
-I'm glad you are here. I plan to talk about ...
+Are there avacados?
