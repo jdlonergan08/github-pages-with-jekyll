@@ -1,3 +1,3 @@
-# ** _Goose University_ **
+# **_Goose University_**
 
 Are there avacados?
